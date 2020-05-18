@@ -2,7 +2,14 @@
 
 ## Description
 
-A web app which uses a search input and Giphy's API to display gifs on a page.
+Keep track of income and expenses. Add and remove items and save to local storage
+-Create UI for project
+-Display transaction items in DOM
+-Show balance, expense and income totals
+-Add new transation and reflect in total
+-Delete items from DOM
+-Persist to local storage
+
 
 ## Installation
 
@@ -11,7 +18,3 @@ Via npm
 > npm install
 
 > gulp watch
-
-## Demo
-
-http://matheustontini.dx.am/portfolio/AppGiphy/
